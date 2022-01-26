@@ -3,7 +3,7 @@ Auto-segmentation and analysis of tomato leaf cells
 Scripts written by aednv, analysis by aednv 2019
 
 ![Segmentation](leaf_seg1.jpg)
-Leaf epidermal peels are stained with a flourecent dye and imaged on a confocal microscope. Auto-segmentation and outline selection is done with ImageJ scripts. Individual cell outline jpgs are converted to coordinate objects using the R Momocs package.
+Leaf epidermal peels are stained with a fluorecent dye and imaged on a confocal microscope. Auto-segmentation and outline selection is done with ImageJ scripts. Individual cell outline jpgs are converted to coordinate objects using the R Momocs package.
 
 ##
 
