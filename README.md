@@ -1,5 +1,5 @@
 # Leaf cell shape
-Auto-segmentation and analysis of tomato leaf cells
+Auto-segmentation and analysis of tomato leaf cells using imageJ scripts and the Momocs R package
 
 ![Segmentation](leaf_seg1.jpg)
 Leaf epidermal peels are stained with a fluorecent dye and imaged on a confocal microscope. Auto-segmentation and outline selection is done with ImageJ scripts. Individual cell outline jpgs are converted to coordinate objects using the R Momocs package.
