@@ -1,4 +1,4 @@
-# Leaf_Cell_Shape
+# Leaf cell shape
 Auto-segmentation and analysis of tomato leaf cells
 
 ![Segmentation](leaf_seg1.jpg)
